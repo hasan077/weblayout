@@ -1,0 +1,15 @@
+*{
+margin: 0px;
+padding: 0px;
+
+}
+
+.container{
+	width: 80%;
+	margin: 0 auto;
+	height: 50px;
+	background-color: tomato;
+
+}
+
+
